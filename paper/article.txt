@@ -1,0 +1,16 @@
+Adli Bilişimde Meta Veri Analizi ile Sahtecilik Tespiti
+Muhammed Neccar, 2101050031
+22 Haziran 2025
+
+Giriş Bu çalışma, Google Takeout ile indirilen 502 dosyanın meta verilerini analiz ederek sahtecilik veya yetkisiz erişim belirtilerini tespit etmeyi amaçlamaktadır. Dosyalar: 387 PDF, 56 DOCX, 35 PPTX, 12 JPEG, 1 XLSX, 11 bilinmeyen tür.
+Yöntem
+Veri Toplama: Google Takeout (20 Haziran 2025), ExifTool ile meta veri çıkarma.
+Meta Veri Analizi: CreateDate, ModifyDate, Author, GPS verileri incelendi. Geçersiz tarih oranı: %23.51 (CreateDate), %22.91 (ModifyDate).
+Anomali Tespiti: Isolation Forest algoritması kullanıldı, 51 dosya anomali olarak tespit edildi (%10.16).
+Bulgular
+Yüksek riskli dosyalar (Risk Skoru > 80): 8 PDF dosyası, özellikle 2007 ve 2010 tarihli dosyalar dikkat çekiyor.
+Anomali dosyaların çoğu PDF (%78.43).
+Eksik meta veriler (Author, GPS) analizde sınırlılık yarattı.
+Sonuç ve Tartışma Eski tarihli dosyaların yüksek risk skoru, sahtecilik veya veri kopyalanması şüphesi uyandırıyor. 2024 ve 2025 yıllarındaki anomaliler, yetkisiz erişim veya manipülasyon belirtisi olabilir. Daha fazla içerik analizi önerilir.
+Kaynaklar
+ExifTool, Google Takeout, Scikit-learn Isolation Forest 

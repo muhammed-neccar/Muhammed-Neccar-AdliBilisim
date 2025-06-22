@@ -1,0 +1,19 @@
+./muhammed-neccar-2101050031/data/Belgeler-2024/10_Hafta_VeriYapilari.pptx: 06e1243acae3fc8b45cd6a29f592a0fa1d2eb754f6e4e614fccffe53b48a8d05
+./muhammed-neccar-2101050031/data/Belgeler-2024/12_hafta_algorithmalar.pptx: a5caf3894e764c3606b2706c2e7f243aea4ba96919a167ac6cb274a358402e8b
+./muhammed-neccar-2101050031/data/Belgeler-2024/Siber Güvenlik Ödev 2.pdf: 3cfd96f8187bc53812834709f48c907b8efec42b883be188ae29b0ddf9083f39
+./muhammed-neccar-2101050031/data/Belgeler-2024/~$Algoritmik Önyargılar ve Sağlık-Teknolojidek.pptx: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+./muhammed-neccar-2101050031/data/Belgeler-2024/11_Hafta_AlgorithmalarII.pptx: d067c5a43a77a805de413042dd3c660df7eb6f700332411b7463ffc8f259e9bb
+./muhammed-neccar-2101050031/data/Belgeler-2024/~$goritmalar_final_projesi.docx: 7b1c19a68521469447d7205d46a5776b50edbb3fb4abf9a545b02389fd1215c6
+./muhammed-neccar-2101050031/data/Belgeler-2024/sinyaller1.ödev _çözüm(1).pdf: 6d23cee689302f886b73c1a3ca1ab51ddaf3fff49c8ba189c4dfd44e1a1fc6b6
+./muhammed-neccar-2101050031/data/Belgeler-2024/~$Belgeler2024_dosyalar.xlsx: 8fca3f85cdb7e5683f0d2d27024a24e0359248e39af9e19b398d02188395ecb1
+./muhammed-neccar-2101050031/data/Belgeler-2024/10-fonksyon.pdf: 5341b15d3e12cf7e1a7307d81d1e7e2d83175aead2c3fc49cbb55128ae67323a
+./muhammed-neccar-2101050031/data/Belgeler-2024/~$Belgeler2024_dosyalar(1).xlsx: 8fca3f85cdb7e5683f0d2d27024a24e0359248e39af9e19b398d02188395ecb1
+./muhammed-neccar-2101050031/data/Belgeler-2024/11_Hafta_VeriYapilari2 (1).pptx: d090a66f409788e643e9820a9de81b9cfacc295654e9f92d630cff03ec513985
+./muhammed-neccar-2101050031/data/Belgeler-2024/SİBER_GÜVENLİĞİ.pdf: 8c17f5515d0c66a435dc2d554283da996aa4cbb9183e356cb67490892bdfe159
+./muhammed-neccar-2101050031/data/Belgeler-2024/sistem2 (1).pdf: dbccc55d0fa097c8ec2427787eaba1a9b128b0a41c664b3fb3c5c8411b55c6f6
+./muhammed-neccar-2101050031/data/Belgeler-2024/11_hafta_algorithmalar.pptx: cb45afee1a36f5afa3b2817727b869a6743885e332a996753bab9da3786e6ce0
+./muhammed-neccar-2101050031/data/Belgeler-2024/SiberGüvenliği_odev1_çözümü.pdf: 5eca3ed4213c62bd6ec1be5c737a521644205a814e670475b6e24eb4dfc16172
+./muhammed-neccar-2101050031/data/Belgeler-2024/11-structure.pdf: 87a0fe7d4e5ff17332927d99b0c2da311353403650ad69ceba589d98b7442072
+./muhammed-neccar-2101050031/data/Belgeler-2024/sistem_prog.pdf: 47dbdc95016cb045e28308c5487ccd2b9d8478d41abd62c473b0bdeacef34924
+./muhammed-neccar-2101050031/data/Belgeler-2024/10_hafta-algoritma-analizi__minumumkapsayanagac.pdf: 4bd24d9d32796b1b207807b4c180c0972a38e9e86b1a6a254f6d43d0a8f5ebb3
+./muhammed-neccar-2101050031/data/Belgeler-2024/_الكورس_4_حلول_سلسلة_الخوارزميات_المستوى_الأول.pdf: b7d2dea7510762b657cd5f754ed09fbf3ef147c4a75e018c3800600b1868bbcf

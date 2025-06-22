@@ -1,0 +1,63 @@
+Meta Veri Analizi Özeti Toplam Dosya Sayısı: 502
+Dosya Türleri ve Sayıları:
+FileType
+PDF           387
+DOCX           56
+PPTX           35
+JPEG           12
+Bilinmeyen     11
+XLSX            1
+Eksik Veri Oranları (%):
+FileName         0.000000
+FileType         0.000000
+CreateDate      23.505976
+ModifyDate      22.908367
+Author           0.000000
+GPSLatitude      0.000000
+GPSLongitude     0.000000
+dtype: float64
+Geçersiz CreateDate Sayısı: 118
+Geçersiz ModifyDate Sayısı: 115
+CreateDate Yıl Dağılımı:
+CreateDate
+2025.0    149
+NaN       118
+2024.0     59
+2023.0     47
+2022.0     29
+2021.0     29
+2019.0     27
+2018.0     15
+2020.0     12
+2014.0      5
+2007.0      3
+2006.0      2
+2016.0      1
+2013.0      1
+2008.0      1
+2010.0      1
+2015.0      1
+2011.0      1
+2017.0      1
+ModifyDate Yıl Dağılımı:
+ModifyDate
+2025.0    152
+NaN       115
+2024.0     74
+2023.0     55
+2021.0     35
+2022.0     34
+2020.0     11
+2019.0      7
+2018.0      7
+2010.0      2
+2007.0      2
+2016.0      1
+2008.0      1
+2013.0      1
+2014.0      1
+2015.0      1
+2012.0      1
+2006.0      1
+2017.0      1
+Analiz Tarihi: 22 Haziran 2025

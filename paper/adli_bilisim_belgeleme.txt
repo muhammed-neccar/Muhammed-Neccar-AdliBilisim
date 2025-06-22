@@ -1,0 +1,9 @@
+Adli Bilişim Belgeleme 
+Proje Adı: Belge Meta Veri Analizi ile Sahtecilik veya Yetkisiz Erişim Tespiti
+Ad: Muhammed Neccar & zehra çifçi
+Okul No: 2101050031 & 2101050003
+İndirme Tarihi: 20 Haziran 2025, 14:30
+Yazılım: Google Takeout (sürüm: 2025, Google resmi veri dışa aktarma aracı)
+Ortam: Google Colab (Python 3.10, Ubuntu 20.04 tabanlı)
+Veri Bütünlüğü: SHA-256 hash değerleri processed/hashes.txt dosyasına kaydedildi.
+Meta Veri Kaynağı: belgeler_metadata.json (ExifTool ile oluşturuldu)

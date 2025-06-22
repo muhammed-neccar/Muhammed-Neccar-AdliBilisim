@@ -1,0 +1,31 @@
+Proje Özeti  Proje Adı: Belge Meta Veri Analizi ile Sahtecilik veya Yetkisiz Erişim Tespiti
+Ad: Muhammed Neccar
+Okul No: 2101050031
+Tarih: 22 Haziran 2025
+
+Veri Toplama:
+Google Takeout ile 502 dosya indirildi (387 PDF, 56 DOCX, 35 PPTX, 12 JPEG, 1 XLSX, 11 Bilinmeyen).
+İndirme Tarihi: 20 Haziran 2025, 14:30
+Meta veriler ExifTool ile belgeler_metadata.json dosyasına kaydedildi.
+Meta Veri Analizi:
+Geçersiz CreateDate: 118 (%23.51), Geçersiz ModifyDate: 115 (%22.91).
+Yıl Dağılımı (CreateDate): 2025 (149), 2024 (59), 2023 (47), vb.
+Eksik veri oranları: Author, GPSLatitude, GPSLongitude alanlarında yüksek oranda eksiklik.
+Anomali Tespiti:
+Isolation Forest algoritması kullanıldı.
+Toplam anomali: 51 dosya (%10.16).
+Yüksek riskli dosyalar (Risk Skoru > 80): 8 dosya.
+Anomali dosya türleri: FileType
+PDF     40
+PPTX     6
+DOCX     5
+Örnek yüksek riskli dosyalar:                                                   FileName FileType  RiskScore
+1    ./-Harris_and_Harris--Digital_Design_and_Computer.pdf      PDF  82.043985
+115                           ./ascii-table-characters.pdf      PDF  84.720922
+266      ./mikroislemci1_hafta_1_2-siirt-2018331457100.pdf      PDF  93.732587
+290  ./Noor-Book.com  كيف تبرمج مترجما فهم برمجة الكوم.pdf      PDF  85.054720
+308                                ./proje hazırlama 1.pdf      PDF  83.649746
+Sonuçlar:
+Eski tarihli dosyalar (örneğin, 2007, 2010) yüksek risk skoru aldı, bu sahtecilik veya eski sistemlerden kopyalanma belirtisi olabilir.
+2024 ve 2025 yıllarındaki dosyalar da anomaliler içeriyor, özellikle PDF dosyaları dikkat çekiyor.
+Eksik meta veriler (Author, GPS) analiz güvenilirliğini sınırlayabilir. 

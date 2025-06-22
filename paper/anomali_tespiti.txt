@@ -1,0 +1,14 @@
+Anomali Tespiti Özeti Toplam Dosya Sayısı: 502
+Anomali Tespit Edilen Dosya Sayısı: 51
+Ortalama Risk Skoru: 24.69
+Yüksek Riskli Dosyalar (Risk Skoru > 80):
+                                                  FileName FileType   RiskScore
+1    ./-Harris_and_Harris--Digital_Design_and_Computer.pdf      PDF   82.043985
+115                           ./ascii-table-characters.pdf      PDF   84.720922
+266      ./mikroislemci1_hafta_1_2-siirt-2018331457100.pdf      PDF   93.732587
+290  ./Noor-Book.com  كيف تبرمج مترجما فهم برمجة الكوم.pdf      PDF   85.054720
+308                                ./proje hazırlama 1.pdf      PDF   83.649746
+324  ./rosen_discrete_mathematics_and_its_applications.pdf      PDF   92.200119
+341                                  ./sayısal tasarım.pdf      PDF  100.000000
+492             ./ممو_زين_قصة_حب_أحمد_الخاني_نقلها (1).pdf      PDF   86.130437
+Analiz Tarihi: 22 Haziran 2025
