@@ -54,7 +54,7 @@ Missing data rate was high (e.g., 23.51% for creation date), suggesting better d
 ⚙️ كيفية الاستخدام | How to Use
 
 # استنساخ المستودع | Clone the repository
-git clone https://github.com/muhammed-neccar/Muhammed-Neccar-AdliBilisim.git
+git clone https://github.com/your-uername/Muhammed-Neccar-AdliBilisim.git
 
 # الانتقال إلى المجلد | Navigate into the folder
 cd Muhammed-Neccar-AdliBilisim
